@@ -42,7 +42,6 @@ Passionate about coding, problem-solving, and building projects
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Roshani2004&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshani2004&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
