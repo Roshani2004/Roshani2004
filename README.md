@@ -6,7 +6,7 @@ Passionate about coding, problem-solving, and building projects
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshani-choudhari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/roshani-choudhari](https://www.linkedin.com/in/roshani-chuodhari-microfoft/))
 
 ---
 
